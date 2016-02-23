@@ -8,7 +8,7 @@ Wellington 3D
 
 ## So far...
 
-![example](images/example.png)
+![example](images/wellington.png)
 
 ## Next steps
 * Investigate better textures
